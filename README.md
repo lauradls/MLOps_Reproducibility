@@ -1,4 +1,4 @@
-# MLReproducibility
+# MLOps and Reproducibility
 
 This repository contains reproducibilty projects in Machine Learning from research papers published on NeurIPS. 
 
