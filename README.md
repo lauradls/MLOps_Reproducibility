@@ -1,6 +1,6 @@
 # MLOps and Reproducibility
 
-This repository contains reproducibilty projects in Machine Learning from research papers published on NeurIPS. 
+This repository contains the reproducibilty projects in Machine Learning that I have worked on and replicated from research papers published on NeurIPS. 
 
 The goal is to raise awareness and hold researchers accountable to published claims of better accuracy or more stable methods. It is important to go back to the statistical principles of replication before assuming something novel as part of a new machine learning framework. 
 
